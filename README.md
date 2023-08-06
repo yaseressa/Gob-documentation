@@ -1,3 +1,3 @@
 <div align="center">
-  # Documentation for Gob Programming Language
+# Documentation for Gob Programming Language
 <div>
